@@ -1,0 +1,17 @@
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\sprite1.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.exe
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Platformer.pdb
+D:\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+D:\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\tnt_sprite.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\walk_blue.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\T_Vlad_Sword_Walking_48x48.xnb
+D:\Projects\Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\CentreTile1.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\CentreTile2.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\MiddleTile1.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\MiddleTile2.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Ship1.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\background.xnb
+D:\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\singlelaser.xnb
